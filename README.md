@@ -41,13 +41,12 @@ This Android app enables **real-time monitoring of temperature and humidity**, a
 - Firebase project with Realtime Database enabled
 - ESP32 board, LED, DHT22 sensor
 
-### 4.2. Steps: git clone https://github.com/0862897614/smart-temp-humidity-app.git
-
+### 4.2. Steps: git clone https://github.com/Chidoo2k2/nhomm6.git
 
 - Open the project in Android Studio (`File > Open`)
 - Connect Firebase or replace the `google-services.json` file
 - Run the app on a physical device (API 21+)
-- Upload code to ESP32 from the `ESP32SensorProject` folder using Arduino IDE
+- Upload code to ESP32 from the `sketch_may30a.ino`
 
 ---
 
