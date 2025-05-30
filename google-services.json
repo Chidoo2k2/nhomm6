@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "614470966897",
+    "firebase_url": "https://nhom6-14bca-default-rtdb.firebaseio.com",
+    "project_id": "nhom6-14bca",
+    "storage_bucket": "nhom6-14bca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614470966897:android:8fa471b072e5b5641885d0",
+        "android_client_info": {
+          "package_name": "com.nhom6.appdonhietdo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0n5X3CJOMrXSs-CQN9eGBR_1tjDE1UDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
